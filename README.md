@@ -1,2 +1,2 @@
-# genNoiseScenario
-generate noise scenarios by insert noise actions
+# docker-compose
+docker serve storage scheduler player
